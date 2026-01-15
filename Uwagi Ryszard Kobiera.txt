@@ -1,0 +1,5 @@
+Program korzysta z bibliotek, ktorych uzywalismy na zajeciach
+w celu uruchomienia na linux-ie nalezy wejsc w folder build,
+wywolac funkcje ´cmake --build .´ a pozniej ´./Project´
+caly kod znajduje sie w jednym pliku main.cpp
+wszystkie paramety ukladu znajduja sie na poczatku pliku main.cpp
